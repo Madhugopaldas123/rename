@@ -1,4 +1,4 @@
-package com.sonarqubewithfreestyle.app;
+package com.rename.app;
 
 /**
  * Hello world!
